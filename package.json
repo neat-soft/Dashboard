@@ -1,0 +1,14 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Template Name: \tMetronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.6\r Version: \t\t4.5.5\r Author: \t\tKeenThemes\r Website: \t\thttp://www.keenthemes.com/\r Contact: \t\tsupport@keenthemes.com\r Follow: \t\thttp://twitter.com/keenthemes\r Like: \t\t\thttp://facebook.com/keenthemes\r Purchase: \t\thttp://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes\r License: \t\tYou must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}
